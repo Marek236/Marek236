@@ -2,4 +2,4 @@
 - 👀 I’m interested in technology in general.
 - 🌱 I’m currently learning Python and Micro: bit.
 - 💞️ I’m not looking to collaborate on anything yet.
-- 📫 How to reach me via email.
+- 📫 Reach me via email.
