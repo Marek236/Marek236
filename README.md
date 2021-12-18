@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Marek236.
-- 👀 I’m interested in technology in general.
-- 🌱 I’m currently learning Python and Micro: bit.
+- 👋 Hi, I’m Marek.
+- 👀 I’m interested in technology.
+- 🌱 I’m currently learning HTML, Python and Micro: bit.
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 Reach me via email.
