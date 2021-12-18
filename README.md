@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marek.
+- 👋 Hi, I’m Marek and I'm from Czech Republic.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning HTML, Python and Micro: bit.
 - 💞️ I’m not looking to collaborate on anything yet.
