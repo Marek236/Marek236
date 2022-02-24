@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marek and I'm from Czech Republic.
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning HTML, CSS, Python and Micro: bit.
+- 🌱 I’m currently not learning anything, but can programme/code in HTML5, CSS3, Python (Pygame) and MicroPython.
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 Reach me via email.
